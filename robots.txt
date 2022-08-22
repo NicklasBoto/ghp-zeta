@@ -1,0 +1,4 @@
+Sitemap: https://zeta.nicbot.xyz/sitemapindex.xml
+
+User-Agent: *
+Host: zeta.nicbot.xyz
