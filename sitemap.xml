@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://zeta.nicbot.xyz/</loc>
-  <lastmod>2022-08-22T17:26:00Z</lastmod>
+  <lastmod>2022-08-22T19:18:00Z</lastmod>
  </url>
  <url>
   <loc>https://zeta.nicbot.xyz/2022/</loc>
@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://zeta.nicbot.xyz/archive.html</loc>
-  <lastmod>2022-08-22T17:26:00Z</lastmod>
+  <lastmod>2022-08-22T19:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://zeta.nicbot.xyz/categories/</loc>
@@ -28,6 +28,10 @@
  <url>
   <loc>https://zeta.nicbot.xyz/listings/</loc>
   <lastmod>2022-08-22T17:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://zeta.nicbot.xyz/posts/icfpplanqc-poster/</loc>
+  <lastmod>2022-08-22T18:01:00Z</lastmod>
  </url>
  <url>
   <loc>https://zeta.nicbot.xyz/posts/test/</loc>
