@@ -7,38 +7,34 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://zeta.nicbot.xyz/</loc>
-  <lastmod>2023-07-24T13:12:00Z</lastmod>
+  <lastmod>2023-07-24T13:56:00Z</lastmod>
  </url>
  <url>
   <loc>https://zeta.nicbot.xyz/2022/</loc>
-  <lastmod>2023-07-24T13:00:00Z</lastmod>
+  <lastmod>2023-07-24T13:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://zeta.nicbot.xyz/2023/</loc>
-  <lastmod>2023-07-24T13:12:00Z</lastmod>
+  <lastmod>2023-07-24T13:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://zeta.nicbot.xyz/archive.html</loc>
-  <lastmod>2023-07-24T13:29:00Z</lastmod>
+  <lastmod>2023-07-24T13:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://zeta.nicbot.xyz/categories/</loc>
-  <lastmod>2023-07-24T13:00:00Z</lastmod>
+  <lastmod>2023-07-24T13:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://zeta.nicbot.xyz/posts/icfpplanqc-poster/</loc>
-  <lastmod>2023-07-24T13:00:00Z</lastmod>
+  <lastmod>2023-07-24T13:56:00Z</lastmod>
  </url>
  <url>
   <loc>https://zeta.nicbot.xyz/posts/masters-thesis/</loc>
-  <lastmod>2023-07-24T13:12:00Z</lastmod>
+  <lastmod>2023-07-24T13:56:00Z</lastmod>
  </url>
  <url>
   <loc>https://zeta.nicbot.xyz/posts/qpl2023-poster/</loc>
-  <lastmod>2023-07-24T13:29:00Z</lastmod>
- </url>
- <url>
-  <loc>https://zeta.nicbot.xyz/posts/test/</loc>
-  <lastmod>2023-07-24T13:00:00Z</lastmod>
+  <lastmod>2023-07-24T13:56:00Z</lastmod>
  </url>
 </urlset>
