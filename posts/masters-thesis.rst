@@ -8,6 +8,6 @@
 .. type: text
 .. has_math: true
 
-We've have be asked to share our thesis work somwhere, and it is probably easiest to put it here_.
+We have been asked to share our thesis work somewhere, and it is probably easiest to put it here_.
 
 .. _here: https://zeta.nicbot.xyz/thesis.pdf
